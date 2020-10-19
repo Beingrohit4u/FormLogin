@@ -2,7 +2,7 @@
 	width:400px;
 	height:400px;
 	margin:0px auto;
-	font-family:raleway
+	font-family:Abel
 }
 
 span {
@@ -28,7 +28,7 @@ hr {
 	width:300px;
 	float:left;
 	border-radius:10px;
-	font-family:raleway;
+	font-family:Abel;
 	border:2px solid #ccc;
 	padding:10px 40px 25px;
 }
@@ -40,7 +40,7 @@ input[type=text],input[type=password] {
 	border:1px solid #ccc;
 	padding-left:5px;
 	font-size:16px;
-	font-family:raleway
+	font-family:Abel
 }
 
 input[type=submit] {
